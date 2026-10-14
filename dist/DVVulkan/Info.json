@@ -1,0 +1,9 @@
+{
+  "Id": "DVVulkan",
+  "DisplayName": "DV Vulkan (DXVK)",
+  "Author": "DVVulkan contributors; DXVK by Philip Rebohle and contributors",
+  "Version": "1.0.2",
+  "ManagerVersion": "0.27.3",
+  "AssemblyName": "DVVulkan.dll",
+  "EntryMethod": "DVVulkan.Main.Load"
+}
